@@ -57,4 +57,3 @@
   </a>
 </p>
 
-⭐ If you like my work, consider **starring** some of my repositories! 🚀
