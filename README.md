@@ -1,43 +1,60 @@
-# Hi there! 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20👋&fontSize=40&fontAlign=50&fontColor=fff)
 
-🚀 Aspiring MERN Stack Developer | 💡 DSA Enthusiast
+<h3 align="center">🚀 Aspiring MERN Stack Developer | 💡 DSA Enthusiast</h3>
 
-## About Me
+---
+
+## 💡 About Me
 - 🌱 Currently learning **MERN Stack** & **Data Structures and Algorithms**
 - 💻 Passionate about coding, problem-solving, and exploring new technologies
 - 📚 Always eager to learn and improve my skills
 
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/Markup-HTML-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/Styling-CSS-blue?style=flat&logo=css3)
-![C](https://img.shields.io/badge/Language-C-blue?style=flat&logo=c)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
 
 ### 🏛️ Databases
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat&logo=mysql)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### 🏗️ Frameworks & Libraries
-![Django](https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django)
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+</p>
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Version%20Control-Git-orange?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Design-Figma-purple?style=flat&logo=figma)
-![Notion](https://img.shields.io/badge/Productivity-Notion-lightgrey?style=flat&logo=notion)
-![LinkedIn](https://img.shields.io/badge/Networking-LinkedIn-blue?style=flat&logo=linkedin)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+
+---
 
 ## 📊 My Stats
 
 ### ⏳ Coding Activity (via WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=radical)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=radical)
 
 ---
 
-💬 **Let's Connect!** 
-- 📫 Reach me on **[LinkedIn](www.linkedin.com/in/harsh-pandya-pes)**
-- ⚡ Fun fact: I love solving coding challenges and learning new tech!
+## 🌍 Let's Connect!
+<p>
+  <a href="https://www.linkedin.com/in/harsh-pandya-pes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
----
+⭐ If you like my work, consider **starring** some of my repositories! 🚀
