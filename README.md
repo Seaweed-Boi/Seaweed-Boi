@@ -48,6 +48,18 @@
 ### ⏳ Coding Activity (via WakaTime)
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=radical)
 
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Seaweed_Boi&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Seaweed_Boi&theme=radical)
+
+### 🚀 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seaweed_Boi&layout=compact&theme=radical)
+
+### 📊 Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seaweed_Boi&theme=radical)
+
 ---
 
 ## 🌍 Let's Connect!
@@ -56,4 +68,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
