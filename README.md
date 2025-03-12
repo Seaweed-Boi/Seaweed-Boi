@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&fontSize=40&fontAlign=50&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future%20One%20Line%20at%20a%20Time%20💻&fontSize=30&fontAlign=50&fontColor=fff)
 
 <h3 align="center">🚀 Aspiring MERN Stack Developer | 💡 DSA Enthusiast</h3>
 
