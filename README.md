@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=150&section=header&text=Harsh%20Pandya&fontSize=50&fontColor=ffffff&fontAlign=30)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=230&section=header&text=Building%20Intelligent%20Systems%20From%20Scratch&fontSize=30&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20·%20AI/ML%20·%20Systems&descAlign=50&descAlignY=70)
 
 <p align="center">
   <strong>Full-Stack • AI/ML • Systems</strong>
@@ -47,8 +47,8 @@
   <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch" />
   <img src="https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn" />
-  <img src="https://img.shields.io/badge/Flower-black?style=for-the-badge&logo=f" />
-  <img src="https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Flower-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/shadcn-black?style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
@@ -57,8 +57,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis" />
-  <img src="https://img.shields.io/badge/Chroma-black?style=for-the-badge&logo=chromadb" />
-  <img src="https://img.shields.io/badge/Qdrant-black?style=for-the-badge&logo=qdrant" />
+  <img src="https://img.shields.io/badge/Chroma-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Qdrant-black?style=for-the-badge" />
 </p>
 
 ### 🛠 Tools & Cloud
@@ -79,15 +79,5 @@
 
 ### 📊 GitHub Stats  
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harsh-pes&show_icons=true&theme=dark" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-pes&theme=dark" />
-</p>
-
----
-
-## 🌍 Connect  
-<p>
-  <a href="https://www.linkedin.com/in/harsh-pandya-pes">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-streak-st
