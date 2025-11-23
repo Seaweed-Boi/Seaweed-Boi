@@ -1,59 +1,93 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future%20One%20Line%20at%20a%20Time%20&fontSize=30&fontAlign=50&fontColor=fff)
+![Banner](https://capsule-render.vercel.app/api?type=rect&color=1e1e1e&height=150&section=header&text=Harsh%20Pandya&fontSize=50&fontColor=ffffff&fontAlign=30)
 
-<h3 align="center">🚀 Aspiring MERN Stack Developer | 💡 DSA Enthusiast</h3>
-
----
-
-## 💡 About Me
-- 🌱 Currently learning **MERN Stack** & **Data Structures and Algorithms**
-- 💻 Passionate about coding, problem-solving, and exploring new technologies
-- 📚 Always eager to learn and improve my skills
-
----
-
-## 🛠️ Technologies & Tools
-
-### 🚀 Languages
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🏛️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🏗️ Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<p align="center">
+  <strong>Full-Stack • AI/ML • Systems</strong>
 </p>
 
 ---
 
-## 📊 My Stats
+## 👨‍💻 About Me
 
-### ⏳ Coding Activity (via WakaTime)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=radical)
+- Exploring **Full-Stack Engineering**, **Backend Systems**, and **Machine Intelligence**
+- Building projects across AI agents, RAG microservices, federated learning, and screen-aware assistants  
+- Practicing DSA and focusing on strong fundamentals in software + systems  
+- Interested in scalable architectures, ML pipelines, and efficient dev workflows  
 
 ---
 
-## 🌍 Let's Connect!
+## 🧰 Tech Stack
+
+### 🌐 Languages
 <p>
-  <a href="https://www.linkedin.com/in/harsh-pandya-pes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino" />
+</p>
+
+### 🖥️ Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite" />
+</p>
+
+### 📚 Libraries
+<p>
+  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/Flower-black?style=for-the-badge&logo=f" />
+  <img src="https://img.shields.io/badge/shadcn-black?style=for-the-badge&logo=react" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/Chroma-black?style=for-the-badge&logo=chromadb" />
+  <img src="https://img.shields.io/badge/Qdrant-black?style=for-the-badge&logo=qdrant" />
+</p>
+
+### 🛠 Tools & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
+</p>
+
+---
+
+## 📈 Stats & Activity
+
+### ⏳ WakaTime  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=dark)
+
+### 📊 GitHub Stats  
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=harsh-pes&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-pes&theme=dark" />
+</p>
+
+---
+
+## 🌍 Connect  
+<p>
+  <a href="https://www.linkedin.com/in/harsh-pandya-pes">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
