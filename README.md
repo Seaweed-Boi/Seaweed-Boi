@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=230&section=header&text=Building%20Intelligent%20Systems%20From%20Scratch&fontSize=30&fontAlign=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20·%20AI/ML%20·%20Systems&descAlign=50&descAlignY=70)
+<h1 align="center">Hi there, I'm Harsh Pandya 👋</h1>
 
 <p align="center">
   <strong>Full-Stack • AI/ML • Systems</strong>
@@ -67,6 +67,7 @@
   <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes" />
   <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
 </p>
 
@@ -79,5 +80,15 @@
 
 ### 📊 GitHub Stats  
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Seaweed_Boi&show_icons=true&theme=dark" />
-  <img height="180" src="https://github-readme-streak-st
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Seaweed-Boi&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-PES&theme=dark" />
+</p>
+
+---
+
+## 🌍 Connect  
+<p>
+  <a href="https://www.linkedin.com/in/harsh-pandya-pes">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
