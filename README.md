@@ -73,19 +73,6 @@
 
 ---
 
-## 📈 Stats & Activity
-
-### ⏳ WakaTime  
-![WakaTime Stats](https://github-readme-stats-ten-zeta.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=dark)
-
-### 📊 GitHub Stats  
-<p>
-  <img height="180" src="https://github-readme-stats-ten-zeta.vercel.app/api?username=Seaweed_Boi&show_icons=true&theme=dark" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Seaweed_Boi&theme=dark" />
-</p>
-
----
-
 ## 🌍 Connect  
 <p>
   <a href="https://www.linkedin.com/in/harsh-pandya-pes">
