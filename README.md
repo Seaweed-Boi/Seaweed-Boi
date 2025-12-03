@@ -76,11 +76,11 @@
 ## 📈 Stats & Activity
 
 ### ⏳ WakaTime  
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Seaweed_Boi&layout=compact&theme=dark)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=seaweed_boi&layout=compact&theme=dark)
 
 ### 📊 GitHub Stats  
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Seaweed-Boi&show_icons=true&theme=dark" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=seaweed_boi&show_icons=true&theme=dark" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-PES&theme=dark" />
 </p>
 
