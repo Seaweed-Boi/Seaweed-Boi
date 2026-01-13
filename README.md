@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go" />
   <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino" />
@@ -65,8 +63,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
 </p>
